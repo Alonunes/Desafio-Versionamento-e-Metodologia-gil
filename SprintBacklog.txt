@@ -1,0 +1,15 @@
+>>>>>>>Sprint Backlog<<<<<<<<<<
+
+=>Selecionado no Sprint PLanning as seguintes histórias:
+
+     ID 01 - Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes 
+dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+
+     ID 03 - Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links 
+para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha 
+navegação no portal. 
+
+*Prazo para o ID 01 é de 3 dias, onde o time irá atualizar e testar as atualizações realizadas no código.
+*Prazo para o ID 03 é de 4 dias, tempo para atualização e realização dos testes no código.
+
+Assim, teremos este Sprint finalizado em no máximo uma semana, com as modificações solicitadas pelo cliente.
