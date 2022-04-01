@@ -1,0 +1,9 @@
+>>>>>>>Sprint Retrospective<<<<<<<<<<
+
+A atualização do ID 01 com certeza melhorou a experiência do usuário, destacando melhor cada veículo. Atualização realizada com êxito;
+Sugestão: maior espaçamento entre os links;
+
+A atualização ID 03 ainda precisará de alguns ajustes, precisará de um feedback do cliente para ter certeza de que era desta maneira que ele queria.
+Sugestões: animação ao passar o mouse, maior espaçamento entre os links, mudar cor da fonte;
+
+     
